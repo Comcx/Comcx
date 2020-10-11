@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Haskell and Agda, trying to be practical with Scala and Rust.
+- 📫 How to reach me: `comcx@outlook.com`.
+- ⚡ Fun fact: 一度あったことは忘れないものさ、思い出せないだけで。
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Comcx&layout=compact)](https://github.com/Comcx)
 <!--
 **Comcx/Comcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
