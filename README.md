@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Haskell and Agda, trying to be practical with <span style="color:red;">Scala</span> and Rust.
+- 🌱 I’m currently learning `Haskell` and `Agda`, trying to be practical with `Scala` and `Rust`.
 - 📫 How to reach me: `comcx@outlook.com`.
 - ⚡ Fun fact: 一度あったことは忘れないものさ、思い出せないだけで。
 
