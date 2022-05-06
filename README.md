@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning `Haskell` and `Agda`, trying to be practical with `Scala` and `Rust`.
 - 📫 How to reach me: `comcx@outlook.com`.
-- ⚡ Fun fact: From falsehood follows whatever you want.
+- ⚡ Fun fact: *From falsehood follows whatever you want.*
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Comcx&layout=compact)](https://github.com/Comcx)
 <!--
